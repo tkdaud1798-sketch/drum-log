@@ -1,2 +1,3 @@
-# drum-log
+# drum
+
 연습일지
